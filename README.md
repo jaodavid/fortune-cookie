@@ -7,7 +7,7 @@ simple fortune cookie app created from Laravel and Vuejs
 
 ## Setup Project / Deploy instructions
 - git clone https://github.com/jaodavid/fortune-cookie.git OR extract ZIP file
-- cd to fortune-cookie/backend
+- cd fortune-cookie/backend
 - composer install
 - npm install
 - cp .env.example .env
@@ -25,7 +25,7 @@ simple fortune cookie app created from Laravel and Vuejs
 
 ## Project setup
 ```
-cd to fortune-cookie/frontend
+cd fortune-cookie/frontend
 npm install
 ```
 
