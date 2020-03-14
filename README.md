@@ -25,6 +25,7 @@ simple fortune cookie app created from Laravel and Vuejs
 
 ## Project setup
 ```
+cd to fortune-cookie/frontend
 npm install
 ```
 
